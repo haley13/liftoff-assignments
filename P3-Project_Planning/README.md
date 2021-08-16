@@ -13,5 +13,5 @@ For this assignment, you'll create some initial plans for your project.
 
 https://trello.com/b/rphME942/whatssup-official-project-board
 ### Project Repo Link
-
-Include a link to your project on GitHub.
+ Link to your project on GitHub.
+ https://github.com/LaunchCodeLiftoffProjects/jane-group-a
